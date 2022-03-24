@@ -1,0 +1,2 @@
+# word-counter
+Además de contar la cantidad de palabras contenidas en un archivo de texto plano, este archivo permite: crear un top personalizado de las palabras más usadas; ver cuántas veces aparece en el texto una palabra especifica; visualizar en forma gráfica la cantidad de palabras que usamos de acuerdo a la cantidad de letras; ver la palabra más larga del texto; ver la cantidad única de palabras utilizadas.
